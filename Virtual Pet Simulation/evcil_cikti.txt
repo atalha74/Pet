@@ -1,0 +1,2 @@
+1,Mutlu,:),es>25,ms>50
+6,Oyun Istiyor,<:o,es>40 or ms<30
