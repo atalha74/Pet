@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1687015788 source:c:\users\salva\desktop\proje\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"evil.h"
+
+1687017294 c:\users\salva\desktop\proje\proje\evil.h
+
+1687004488 source:c:\users\salva\desktop\proje\proje\evil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"evil.h"
+
